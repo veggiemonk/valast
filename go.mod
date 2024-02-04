@@ -12,5 +12,4 @@ require (
 	github.com/google/go-cmp v0.6.0 // indirect
 	github.com/hexops/gotextdiff v1.0.3 // indirect
 	golang.org/x/mod v0.14.0 // indirect
-	golang.org/x/sys v0.16.0 // indirect
 )
